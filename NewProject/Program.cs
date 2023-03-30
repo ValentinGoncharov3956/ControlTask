@@ -26,3 +26,8 @@ void PrintArray(string[] array)
     }
     Console.WriteLine($"]");;
 }
+
+ArrayCheck(ArrayString, ArrayString2);
+PrintArray(ArrayString);
+Console.WriteLine();
+PrintArray(ArrayString2);
