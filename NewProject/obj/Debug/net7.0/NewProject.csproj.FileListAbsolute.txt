@@ -1,0 +1,15 @@
+D:\Other\Study\ControlTask1\NewProject\bin\Debug\net7.0\NewProject.exe
+D:\Other\Study\ControlTask1\NewProject\bin\Debug\net7.0\NewProject.deps.json
+D:\Other\Study\ControlTask1\NewProject\bin\Debug\net7.0\NewProject.runtimeconfig.json
+D:\Other\Study\ControlTask1\NewProject\bin\Debug\net7.0\NewProject.dll
+D:\Other\Study\ControlTask1\NewProject\bin\Debug\net7.0\NewProject.pdb
+D:\Other\Study\ControlTask1\NewProject\obj\Debug\net7.0\NewProject.csproj.AssemblyReference.cache
+D:\Other\Study\ControlTask1\NewProject\obj\Debug\net7.0\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Other\Study\ControlTask1\NewProject\obj\Debug\net7.0\NewProject.AssemblyInfoInputs.cache
+D:\Other\Study\ControlTask1\NewProject\obj\Debug\net7.0\NewProject.AssemblyInfo.cs
+D:\Other\Study\ControlTask1\NewProject\obj\Debug\net7.0\NewProject.csproj.CoreCompileInputs.cache
+D:\Other\Study\ControlTask1\NewProject\obj\Debug\net7.0\NewProject.dll
+D:\Other\Study\ControlTask1\NewProject\obj\Debug\net7.0\refint\NewProject.dll
+D:\Other\Study\ControlTask1\NewProject\obj\Debug\net7.0\NewProject.pdb
+D:\Other\Study\ControlTask1\NewProject\obj\Debug\net7.0\NewProject.genruntimeconfig.cache
+D:\Other\Study\ControlTask1\NewProject\obj\Debug\net7.0\ref\NewProject.dll

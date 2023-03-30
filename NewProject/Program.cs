@@ -1,17 +1,19 @@
 ﻿//Задача. Написать программу, которая из имеющегося массива строк формирует массив из строк, длина которых меньше или равна 3 символам.
 
 
-string[] ArrayString = new string[5] {"string", "array", "925", "24", "12"};
+string[] ArrayString = new string[5] { "string", "array", "925", "24", "12" };
 string[] ArrayString2 = new string[ArrayString.Length];
-int count = 0;
 
-for (int i = 0; i < ArrayString.Length; i++)
+void ArrayCheck(string[] array, string[] array2)
 {
-    if (ArrayString[i].Length <= 3)
+    int count = 0; 
+    for (int i = 0; i < array.Length; i++)
     {
-        ArrayString2[count] = ArrayString[i];
-        count++;
+        if (array[i].Length <= 3)
+        {
+            array2[count] = array[i];
+            count++;
+        }
     }
 }
-
 
